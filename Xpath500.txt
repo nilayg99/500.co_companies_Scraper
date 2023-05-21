@@ -1,0 +1,5 @@
+Name = "//div[@class="grid table-row"]/div[@class="table-value company-name"]"
+Industry = "//div[@class="grid table-row"]/div[@class="span-3 m-span-6"][1]/div[2]"
+Sub_Industry = "//div[@class="grid table-row"]/div[@class="span-3 m-span-6"][2]/div[2]"
+Location = "//div[@class="grid table-row"]/div[@class="span-3 m-span-12"]/div[2]"
+Pagination= "//div[@class="pages"]/ul/li[@class="next"]"
